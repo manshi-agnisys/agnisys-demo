@@ -1,4 +1,6 @@
 # agnisys-demo
-This is my first git demo Repository /n Author - Manshi Malik
+This is my first git demo Repository.
+<br>
+Author - Manshi Malik
 
 
